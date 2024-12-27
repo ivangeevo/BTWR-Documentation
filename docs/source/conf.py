@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'BTWR-Docs'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'BTWR: Documentation'
+copyright = '2024, ivangeevo'
+author = 'ivangeevo'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '1.0'
 
 # -- General configuration
 

@@ -1,8 +1,8 @@
 """
-BTWR: Documentation
+Lumache - Python library for cooks and food lovers.
 """
 
-__version__ = "1.0"
+__version__ = "0.1.0"
 
 
 class InvalidKindError(Exception):
